@@ -1,18 +1,4 @@
-[{
-    "id":1,
-    "email":"one@gamil.com",
-    "firstName":"one",
-    "lastName":"onegamil",
-    "avatar":"helper"
-    
-},
 {
-    "id":2,
-    "email":"two@gamil.com",
-    "firstName":"two",
-    "lastName":"twogamil",
-    "avatar":"twohelper"
-    
+"title": "delectus aut autem",
+"email":"one@gmail.com"
 }
-]
-
