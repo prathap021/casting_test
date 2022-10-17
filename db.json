@@ -1,33 +1,17 @@
-[{
-"id":1,
-"email": "delectus aut autem",
-"firstname":"michale",
-"lastname":"twos",
-"avatar":"that is",
-"email":"one@gmail.com"
-},
-{
-"id":2,
-"email": "delectus aut autem",
-"firstname":"michale",
-"lastname":"twos",
-"avatar":"that is",
-"email":"one@gmail.com"
-},
-{
-"id":3,
-"email": "delectus aut autem",
-"firstname":"michale",
-"lastname":"twos",
-"avatar":"that is",
-"email":"one@gmail.com"
-},
-{
-"id":4,
-"email": "delectus aut autem",
-"firstname":"michale",
-"lastname":"twos",
-"avatar":"that is",
-"email":"one@gmail.com"
-}
+[
+   {
+    "id":1,
+    "email": "delectus aut autem",
+    "firstname":"michale",
+    "lastname":"twos",
+    "avatar":"that is"
+
+   },
+   {
+   "id":2,
+   "email": "delectus aut autem",
+   "firstname":"michale",
+   "lastname":"twos",
+   "avatar":"that is"
+   }
 ]
