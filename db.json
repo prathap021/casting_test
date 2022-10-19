@@ -1,9 +1,16 @@
 [
   {
     "id": 1,
-    "name":"learner",
-    "email": "little021@gmail.com"
-   
- 
+    "email": "gtkop123@gmail.com",
+    "firstName": "Bret",
+    "lastName": "omblet",
+    "avatar":"news data"
+  },
+  {
+    "id": 2,
+    "email": "self123@gmail.com",
+    "firstName": "white",
+    "lastName": "screen",
+    "avatar":"new car"
   }
  ] 
