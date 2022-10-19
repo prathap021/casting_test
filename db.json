@@ -1,16 +1,25 @@
+
 [
   {
     "id": 1,
     "email": "gtkop123@gmail.com",
     "firstName": "Bret",
     "lastName": "omblet",
-    "avatar":"news data"
+    "avatar":"news data",
+    "address":{
+        "street":"villupuram"
+    }
+    
+   
   },
   {
     "id": 2,
     "email": "self123@gmail.com",
     "firstName": "white",
     "lastName": "screen",
-    "avatar":"new car"
+    "avatar":"new car",
+    "address":{
+        "street":"chennai"
+    }
   }
  ] 
