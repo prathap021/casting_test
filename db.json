@@ -1,19 +1,12 @@
 [
   {
     "id": 1,
+    "name":"learner",
     "email": "little021@gmail.com",
-    "firstName": "little",
-    "lastName": "omblet",
-    "avatar":"news data"
-  },
-  {
-    "id": 2,
-    "email": "selfl021@gmail.com",
-    "firstName": "self",
-    "lastName": "learner",
-    "avatar":"new car"
+  
+   
+     "address": {
+      "street": "Kulas Light"}
   }
  ] 
-  
-
     
