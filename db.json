@@ -6,9 +6,7 @@
     "firstName": "Bret",
     "lastName": "omblet",
     "avatar":"news data",
-    "address":{
-        "street":"villupuram"
-    }
+   
     
    
   },
@@ -18,8 +16,6 @@
     "firstName": "white",
     "lastName": "screen",
     "avatar":"new car",
-    "address":{
-        "street":"chennai"
-    }
+  
   }
  ] 
