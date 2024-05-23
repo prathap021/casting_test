@@ -1,0 +1,335 @@
+{
+  "questions": [
+    {
+      "qusetionId": 8,
+      "question": "Where should I go when I hear any Emergency Siren?",
+      "answer": "B",
+      "answerId": 11,
+      "choices": [
+        {
+          "choiceId": 10,
+          "choiceLetter": "A ",
+          "choiceText": "Go out of the factory."
+        },
+        {
+          "choiceId": 11,
+          "choiceLetter": "B ",
+          "choiceText": "Assembly Area."
+        },
+        {
+          "choiceId": 12,
+          "choiceLetter": "C ",
+          "choiceText": "Hide somewhere."
+        }
+      ]
+    },
+    {
+      "qusetionId": 9,
+      "question": "What is the phone number of Main Gate ",
+      "answer": "C",
+	   "answerId": 163,
+      "choices": [
+        {
+          "choiceId": 161,
+          "choiceLetter": "A ",
+          "choiceText": "4399"
+        },
+        {
+          "choiceId": 162,
+          "choiceLetter": "B ",
+          "choiceText": "4209, 4213"
+        },
+        {
+          "choiceId": 163,
+          "choiceLetter": "C ",
+          "choiceText": "4217"
+        },
+        {
+          "choiceId": 164,
+          "choiceLetter": "D ",
+          "choiceText": "4216"
+        }
+      ]
+    },
+    {
+      "qusetionId": 2,
+      "question": "What should you do when a fire alarm sounds?",
+      "answer": "B         ",
+      "answerId": 5,
+      "choices": [
+        {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+          "choiceText": "Go out of the factory."
+        },
+        {
+          "choiceId": 5,
+          "choiceLetter": "B ",
+          "choiceText": "Exit Factory Ans"
+        },
+        {
+          "choiceId": 13,
+          "choiceLetter": "C ",
+          "choiceText": "Hide somewhere."
+        }
+      ]
+    },
+    {
+      "qusetionId": 2,
+      "question": "What should you do when a fire alarm sounds?",
+      "answer": "B         ",
+      "answerId": 5,
+      "choices": [
+	   {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+          "choiceText": "Go out of the factory."
+        },
+        {
+          "choiceId": 5,
+          "choiceLetter": "B ",
+          "choiceText": "Exit Factory Ans"
+        },
+        {
+          "choiceId": 13,
+          "choiceLetter": "C ",
+          "choiceText": "Hide somewhere."
+        }
+        
+      ]
+    },
+    {
+      "qusetionId": 3,
+      "question": "In what areas are you required to wear high visibility clothing?",
+      "answer": "B         ",
+      "answerId": 9,
+      "choices": [
+         {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+          "choiceText": "Go out of the factory."
+        },
+        {
+          "choiceId": 9,
+          "choiceLetter": "B ",
+          "choiceText": "Exit Factory Ans"
+        },
+        {
+          "choiceId": 13,
+          "choiceLetter": "C ",
+          "choiceText": "Hide somewhere."
+        }
+      ]
+    },
+    {
+      "qusetionId": 10,
+      "question": "Tobacco in all forms",
+      "answer": "A",
+      "answerId": 1,
+      "choices": [
+	   {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+		  
+          "choiceText": "Exit Factory Ans"
+        },
+        {
+          "choiceId": 5,
+          "choiceLetter": "B ",
+          "choiceText": "Go out of the factory"
+        },
+        {
+          "choiceId": 13,
+          "choiceLetter": "C ",
+          "choiceText": "Hide somewhere."
+        }
+        
+      ]
+    },
+    {
+      "qusetionId": 11,
+      "question": "Alcohol in all forms",
+      "answer": "A         ",
+      "answerId": 1,
+      "choices": [
+	  
+	  {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+		  
+          "choiceText": "Exit Factory Ans"
+        },
+        {
+          "choiceId": 5,
+          "choiceLetter": "B ",
+          "choiceText": "Go out of the factory"
+        },
+        {
+          "choiceId": 13,
+          "choiceLetter": "C ",
+          "choiceText": "Hide somewhere."
+        }
+        
+      ]
+    },
+    {
+      "qusetionId": 4,
+      "question": "What is the maximum permitted speed limit when driving a vehicle on site?",
+      "answer": "B         ",
+      "answerId": 10,
+      "choices": [
+         {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+          "choiceText": "Go out of the factory."
+        },
+        {
+          "choiceId": 10,
+          "choiceLetter": "B ",
+          "choiceText": "Exit Factory Ans"
+        },
+        {
+          "choiceId": 13,
+          "choiceLetter": "C ",
+          "choiceText": "Hide somewhere."
+        }
+      ]
+    },
+    {
+      "qusetionId": 5,
+      "question": "Can you carry mobile phones inside the factory?*",
+      "answer": "B",
+      "answerId": 2,
+      "choices": [
+        {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+          "choiceText": "Yes?"
+        },
+        {
+          "choiceId": 2,
+          "choiceLetter": "B",
+          "choiceText": "No?"
+        }
+      ]
+    },
+    {
+      "qusetionId": 12,
+      "question": "No Match box/lighters",
+      "answer": "A         ",
+      "answerId": 1,
+      "choices": [
+        {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+          "choiceText": "Yes Ans?"
+        },
+        {
+          "choiceId": 2,
+          "choiceLetter": "B",
+          "choiceText": "No?"
+        }
+      ]
+    },
+    {
+      "qusetionId": 13,
+      "question": "Pan / Pan masala",
+      "answer": "A         ",
+      "answerId": 1,
+      "choices": [
+        {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+          "choiceText": "Yes Ans?"
+        },
+        {
+          "choiceId": 2,
+          "choiceLetter": "B",
+          "choiceText": "No?"
+        }
+      ]
+    },
+    {
+      "qusetionId": 6,
+      "question": "How do you walk inside the factory premises?",
+      "answer": "B         ",
+      "answerId": 4,
+      "choices": [
+        {
+          "choiceId": 3,
+          "choiceLetter": "A ",
+          "choiceText": "anywhere on the road?"
+        },
+        {
+          "choiceId": 4,
+          "choiceLetter": "B ",
+          "choiceText": "On designated pedestrian walkways?"
+        },
+        {
+          "choiceId": 5,
+          "choiceLetter": "C ",
+          "choiceText": "On the grass along the road?"
+        }
+      ]
+    },
+    {
+      "qusetionId": 7,
+      "question": "What precautions are required in areas that needs additional safety? ?",
+      "answer": "C         ",
+      "answerId": 8,
+      "choices": [
+        {
+          "choiceId": 6,
+          "choiceLetter": "A ",
+          "choiceText": "Personal protective Equipment (PPE) ?)"
+        },
+        {
+          "choiceId": 7,
+          "choiceLetter": "B ",
+          "choiceText": "Hand tools.?"
+        },
+        {
+          "choiceId": 8,
+          "choiceLetter": "C ",
+          "choiceText": "Jacket.?"
+        }
+      ]
+    },
+    {
+      "qusetionId": 14,
+      "question": "Flammable materials",
+      "answer": "A         ",
+      "answerId": 1,
+      "choices": [
+        {
+          "choiceId": 1,
+          "choiceLetter": "A ",
+          "choiceText": "Yes Ans?"
+        },
+        {
+          "choiceId": 2,
+          "choiceLetter": "B",
+          "choiceText": "No?"
+        }
+      ]
+    },
+    {
+      "qusetionId": 15,
+      "question": "Sharp Objects / Weapons",
+      "answer": "A         ",
+      "answerId": 1,
+      "choices": [
+        {
+          "choiceId": 1,
+          "choiceLetter": "A",
+          "choiceText": "Yes Ans?"
+        },
+        {
+          "choiceId": 2,
+          "choiceLetter": "B",
+          "choiceText": "No?"
+        }
+      ]
+    }
+  ]
+}
